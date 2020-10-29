@@ -10,4 +10,4 @@
 ## Fase II
 - [Ejercicio de análisis de bases de datos](https://github.com/sofiarosalesg/MineriaDeDatos/blob/master/AnalisisBD_1799219.pdf)
 - [Ejercicios de Python Básico](https://github.com/sofiarosalesg/MineriaDeDatos/blob/master/PythonBasico_1799219.ipynb)
-- [Avance I Proyecto Integrador](https://github.com/valerianavarro99/Mineria_De_Datos/blob/master/Avance1-PIA_7_002.pdf)
+- [Avance 1 PIA](https://github.com/valerianavarro99/Mineria_De_Datos/blob/master/Avance1-PIA_7_002.pdf)
