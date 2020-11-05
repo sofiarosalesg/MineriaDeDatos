@@ -12,5 +12,5 @@
 - [Ejercicios de Python Básico](https://github.com/sofiarosalesg/MineriaDeDatos/blob/master/PythonBasico_1799219.ipynb)
 - [Avance 1 PIA](https://github.com/valerianavarro99/Mineria_De_Datos/blob/master/Avance1-PIA_7_002.pdf)
 ## Fase III
-- [Ejercicio Limpieza de datos](https://github.com/valerianavarro99/Mineria_De_Datos/blob/master/Limpieza_Equipo7.ipynb)
-- [Ejercicio Visualización](https://github.com/valerianavarro99/Mineria_De_Datos/blob/master/Visualizaci%C3%B3n_Equipo7.ipynb)
+- [Ejercicio de limpieza de datos](https://github.com/valerianavarro99/Mineria_De_Datos/blob/master/Limpieza_Equipo7.ipynb)
+- [Ejercicio de visualización](https://github.com/valerianavarro99/Mineria_De_Datos/blob/master/Visualizaci%C3%B3n_Equipo7.ipynb)
